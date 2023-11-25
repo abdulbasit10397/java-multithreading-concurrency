@@ -8,7 +8,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ImageProcessingExercise {
-    public static final String SOURCE_FILE = "./resources/many-flowers.jpg";
+    public static final String SOURCE_FILE = "./resources/latency/many-flowers.jpg";
     public static final String DESTINATION_FILE = "./output/many-flowers.jpg";
 
     public static void main (String[] args) throws IOException {
